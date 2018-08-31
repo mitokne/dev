@@ -16,6 +16,8 @@ $num3_3 = mb_strpos($str, "3", 20);
 // echo "$str";
 var_dump($num3_3 + 1);
 
+//処理の効率が悪い
+
 
 
  ?>
